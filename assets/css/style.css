@@ -1,0 +1,26 @@
+
+
+.navBar
+{
+    margin-top: 20%;
+}
+
+
+.shopNow
+{
+
+    border-style: hidden;
+    margin-left: 10%;
+    margin-right: 60%;
+}
+.constText
+{
+    font-size: x-large;
+}
+.shopNowButton
+{
+    border: black solid;
+    border-width: 20px;
+    background-color: black;
+    color: white;
+}
